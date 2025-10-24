@@ -1,11 +1,7 @@
 {
-  "earnings": [
-    {
-      "id": 1,
-      "title": "hello"
-    }
-  ],
-  "profile": {
-    "name": "typicode"
-  }
+  "reportes": [
+    { "id": 1, "cliente": "Juan Perez", "fecha": "2025-10-20", "total": 150 },
+    { "id": 2, "cliente": "Maria Lopez", "fecha": "2025-10-22", "total": 200 },
+    { "id": 3, "cliente": "Carlos Ramos", "fecha": "2025-10-25", "total": 300 }
+  ]
 }
