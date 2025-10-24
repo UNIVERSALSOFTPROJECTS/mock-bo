@@ -1,5 +1,5 @@
 {
-  "earnings": {  
+  "earnings": {
   "status": 1,
   "message_code": "OK",
   "list": [
@@ -36,13 +36,7 @@
      {"site": "xlive", "country": "EC", "currency": "USD", "parent": "SHOP_CLUB", "username": "CAJERO1010", "type": "CASHIER", "category": "sportbook", "bet": 60.00, "win": 75.00, "refund": 0.00, "ggr": -15.00, "ggr_usd": -3.90}
     
   ],
-  "totals": {
-    "bet": 1956.58,
-    "win": 1117.18,
-    "refund": 10.60,
-    "ggr": 828.79,
-    "ggr_usd": 828.79
-  },
+  "totals": { "bet": 1956.58, "win": 1117.18, "refund": 10.60, "ggr": 828.79, "ggr_usd": 828.79},
   "xpage": 30,
   "page": 1,
   "total": 30
