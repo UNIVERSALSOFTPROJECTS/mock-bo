@@ -1,7 +1,27 @@
 {
-  "reportes": [
-    { "id": 1, "cliente": "Juan Perez", "fecha": "2025-10-20", "total": 150 },
-    { "id": 2, "cliente": "Maria Lopez", "fecha": "2025-10-22", "total": 200 },
-    { "id": 3, "cliente": "Carlos Ramos", "fecha": "2025-10-25", "total": 300 }
-  ]
+  "earnings": {  
+  {
+  "status": 1,
+  "message_code": "OK",
+  "list": [
+    {"site": "xlive", "country": "EC", "currency": "USD", "parent": null, "username": "DIEGO_DIS_XLIVE", "parent_type": "DISTRIBUTOR", "category": "sportbook", "bet": 3000.00, "win": 2000.00, "refund": 0.00, "ggr": 1000.00, "ggr_usd":390.00},
+    {"site": "xlive", "country": "EC", "currency": "USD", "parent": "DIEGO_DIS_XLIVE", "username": "JUANPA_SUB_XLIVE", "parent_type": "SUB-DISTRIBUTOR", "category": "sportbook", "bet": 60.00, "win": 75.00, "refund": 0.00, "ggr": -15.00, "ggr_usd": -3.90}
+    {"site": "xlive", "country": "EC", "currency": "USD", "parent": "JUANPA_SUB_XLIVE", "username": "OP_DAVID", "parent_type": "OPERATOR", "category": "sportbook", "bet": 60.00, "win": 75.00, "refund": 0.00, "ggr": -15.00, "ggr_usd": -3.90}
+    {"site": "xlive", "country": "EC", "currency": "USD", "parent": "OP_DAVID", "username": "SHOP_JORDAN", "parent_type": "SHOP", "category": "sportbook", "bet": 60.00, "win": 75.00, "refund": 0.00, "ggr": -15.00, "ggr_usd": -3.90}
+    {"site": "xlive", "country": "EC", "currency": "USD", "parent": "SHOP_JORDAN", "username": "CAJERO1", "parent_type": "CASHIER", "category": "sportbook", "bet": 60.00, "win": 75.00, "refund": 0.00, "ggr": -15.00, "ggr_usd": -3.90}
+    {"site": "xlive", "country": "EC", "currency": "USD", "parent": "SHOP_JORDAN", "username": "CAJERO2", "parent_type": "CASHIER", "category": "sportbook", "bet": 60.00, "win": 75.00, "refund": 0.00, "ggr": -15.00, "ggr_usd": -3.90}
+  
+  ],
+  "totals": {
+    "bet": 1956.58,
+    "win": 1117.18,
+    "refund": 10.60,
+    "ggr": 828.79,
+    "ggr_usd": 828.79
+  },
+  "xpage": 8,
+  "page": 1,
+  "total": 8
+}
+  }
 }
