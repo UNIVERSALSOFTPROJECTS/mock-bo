@@ -4,13 +4,25 @@
   "status": 1,
   "message_code": "OK",
   "list": [
-    {"site": "xlive", "country": "EC", "currency": "USD", "parent": null, "username": "DIEGO_DIS_XLIVE", "parent_type": "DISTRIBUTOR", "category": "sportbook", "bet": 3000.00, "win": 2000.00, "refund": 0.00, "ggr": 1000.00, "ggr_usd":390.00},
-    {"site": "xlive", "country": "EC", "currency": "USD", "parent": "DIEGO_DIS_XLIVE", "username": "JUANPA_SUB_XLIVE", "parent_type": "SUB-DISTRIBUTOR", "category": "sportbook", "bet": 60.00, "win": 75.00, "refund": 0.00, "ggr": -15.00, "ggr_usd": -3.90}
-    {"site": "xlive", "country": "EC", "currency": "USD", "parent": "JUANPA_SUB_XLIVE", "username": "OP_DAVID", "parent_type": "OPERATOR", "category": "sportbook", "bet": 60.00, "win": 75.00, "refund": 0.00, "ggr": -15.00, "ggr_usd": -3.90}
-    {"site": "xlive", "country": "EC", "currency": "USD", "parent": "OP_DAVID", "username": "SHOP_JORDAN", "parent_type": "SHOP", "category": "sportbook", "bet": 60.00, "win": 75.00, "refund": 0.00, "ggr": -15.00, "ggr_usd": -3.90}
-    {"site": "xlive", "country": "EC", "currency": "USD", "parent": "SHOP_JORDAN", "username": "CAJERO1", "parent_type": "CASHIER", "category": "sportbook", "bet": 60.00, "win": 75.00, "refund": 0.00, "ggr": -15.00, "ggr_usd": -3.90}
-    {"site": "xlive", "country": "EC", "currency": "USD", "parent": "SHOP_JORDAN", "username": "CAJERO2", "parent_type": "CASHIER", "category": "sportbook", "bet": 60.00, "win": 75.00, "refund": 0.00, "ggr": -15.00, "ggr_usd": -3.90}
-  
+    {"site": "xlive", "country": "EC", "currency": "USD", "parent": null, "username": "DIEGO_DIS_XLIVE", "type": "DISTRIBUTOR", "category": "sportbook", "bet": 3000.00, "win": 2000.00, "refund": 0.00, "ggr": 1000.00, "ggr_usd":390.00},
+    {"site": "xlive", "country": "EC", "currency": "USD", "parent": "DIEGO_DIS_XLIVE", "username": "JUANPA_SUB_XLIVE", "type": "SUB-DISTRIBUTOR", "category": "sportbook", "bet": 60.00, "win": 75.00, "refund": 0.00, "ggr": -15.00, "ggr_usd": -3.90},
+    {"site": "xlive", "country": "EC", "currency": "USD", "parent": "JUANPA_SUB_XLIVE", "username": "OP_DAVID", "type": "OPERATOR", "category": "sportbook", "bet": 60.00, "win": 75.00, "refund": 0.00, "ggr": -15.00, "ggr_usd": -3.90},
+    {"site": "xlive", "country": "EC", "currency": "USD", "parent": "OP_DAVID", "username": "SHOP_JORDAN", "type": "SHOP", "category": "sportbook", "bet": 60.00, "win": 75.00, "refund": 0.00, "ggr": -15.00, "ggr_usd": -3.90},
+    {"site": "xlive", "country": "EC", "currency": "USD", "parent": "SHOP_JORDAN", "username": "CAJERO1", "type": "CASHIER", "category": "sportbook", "bet": 60.00, "win": 75.00, "refund": 0.00, "ggr": -15.00, "ggr_usd": -3.90},
+    {"site": "xlive", "country": "EC", "currency": "USD", "parent": "SHOP_JORDAN", "username": "CAJERO2", "type": "CASHIER", "category": "sportbook", "bet": 60.00, "win": 75.00, "refund": 0.00, "ggr": -15.00, "ggr_usd": -3.90},
+     {"site": "xlive", "country": "EC", "currency": "USD", "parent": "OP_DAVID", "username": "SHOP_JARDIN", "type": "SHOP", "category": "sportbook", "bet": 60.00, "win": 75.00, "refund": 0.00, "ggr": -15.00, "ggr_usd": -3.90},
+    {"site": "xlive", "country": "EC", "currency": "USD", "parent": "SHOP_JARDIN", "username": "CAJERO1", "type": "CASHIER", "category": "sportbook", "bet": 60.00, "win": 75.00, "refund": 0.00, "ggr": -15.00, "ggr_usd": -3.90},
+    {"site": "xlive", "country": "EC", "currency": "USD", "parent": "JUANPA_SUB_XLIVE", "username": "OP_PEDRO", "type": "OPERATOR", "category": "sportbook", "bet": 60.00, "win": 75.00, "refund": 0.00, "ggr": -15.00, "ggr_usd": -3.90},
+    {"site": "xlive", "country": "EC", "currency": "USD", "parent": "OP_PEDRO", "username": "SHOP_CAMPIÑA", "type": "SHOP", "category": "sportbook", "bet": 60.00, "win": 75.00, "refund": 0.00, "ggr": -15.00, "ggr_usd": -3.90},
+     {"site": "xlive", "country": "EC", "currency": "USD", "parent": "SHOP_CAMPIÑA", "username": "CAJERO3", "type": "CASHIER", "category": "sportbook", "bet": 60.00, "win": 75.00, "refund": 0.00, "ggr": -15.00, "ggr_usd": -3.90},
+     {"site": "xlive", "country": "EC", "currency": "USD", "parent": "OP_PEDRO", "username": "SHOP_SANTAANA", "type": "SHOP", "category": "sportbook", "bet": 60.00, "win": 75.00, "refund": 0.00, "ggr": -15.00, "ggr_usd": -3.90},
+     {"site": "xlive", "country": "EC", "currency": "USD", "parent": "SHOP_SANTAANA", "username": "CAJERO41", "type": "CASHIER", "category": "sportbook", "bet": 60.00, "win": 75.00, "refund": 0.00, "ggr": -15.00, "ggr_usd": -3.90},
+      {"site": "xlive", "country": "EC", "currency": "USD", "parent": "JUANPA_SUB_XLIVE", "username": "OP_SEBAS", "type": "OPERATOR", "category": "sportbook", "bet": 60.00, "win": 75.00, "refund": 0.00, "ggr": -15.00, "ggr_usd": -3.90},
+     {"site": "xlive", "country": "EC", "currency": "USD", "parent": "OP_SEBAS", "username": "SHOP_VILLA", "type": "SHOP", "category": "sportbook", "bet": 60.00, "win": 75.00, "refund": 0.00, "ggr": -15.00, "ggr_usd": -3.90},
+     {"site": "xlive", "country": "EC", "currency": "USD", "parent": "SHOP_VILLA", "username": "CAJERO51", "type": "CASHIER", "category": "sportbook", "bet": 60.00, "win": 75.00, "refund": 0.00, "ggr": -15.00, "ggr_usd": -3.90},
+    {"site": "xlive", "country": "EC", "currency": "USD", "parent": "OP_SEBAS", "username": "SHOP_VERSALLES", "type": "SHOP", "category": "sportbook", "bet": 60.00, "win": 75.00, "refund": 0.00, "ggr": -15.00, "ggr_usd": -3.90},
+     {"site": "xlive", "country": "EC", "currency": "USD", "parent": "SHOP_VERSALLES", "username": "CAJERO61", "type": "CASHIER", "category": "sportbook", "bet": 60.00, "win": 75.00, "refund": 0.00, "ggr": -15.00, "ggr_usd": -3.90},
+    
   ],
   "totals": {
     "bet": 1956.58,
