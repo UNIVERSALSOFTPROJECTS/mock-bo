@@ -1,36 +1,11 @@
 {
-  "reports":{
-    "earnings":[
-      {
-  "status": 1,
-  "message_code": "OK",
-  "list": [
+  "posts": [
     {
-      "site": "xlive",
-      "country": "PE",
-      "currency": "PEN",
-      "parent": "-",
-      "username": "tienda_lima",
-      "parent_type": "TIENDA",
-      "category": "horse",
-      "bet": 60.00,
-      "win": 75.00,
-      "refund": 0.00,
-      "ggr": -15.00,
-      "ggr_usd": -3.90
+      "id": 1,
+      "title": "hello"
     }
   ],
-  "totals": {
-    "bet": 1956.58,
-    "win": 1117.18,
-    "refund": 10.60,
-    "ggr": 828.79,
-    "ggr_usd": 828.79
-  },
-  "xpage": 8,
-  "page": 1,
-  "total": 8
-}
-    ]
+  "profile": {
+    "name": "typicode"
   }
 }
