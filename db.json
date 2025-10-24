@@ -38,7 +38,7 @@
      {"site": "xlive", "country": "EC", "currency": "USD", "parent": "LUCHO_SUB_XLIVE", "username": "OP_EDDER", "type": "OPERATOR", "category": "sportbook", "bet": 60.00, "win": 75.00, "refund": 0.00, "ggr": -15.00, "ggr_usd": -3.90},
      {"site": "xlive", "country": "EC", "currency": "USD", "parent": "OP_EDDER", "username": "SHOP_CLUB", "type": "SHOP", "category": "sportbook", "bet": 60.00, "win": 75.00, "refund": 0.00, "ggr": -15.00, "ggr_usd": -3.90},
      {"site": "xlive", "country": "EC", "currency": "USD", "parent": "SHOP_CLUB", "username": "CAJERO1010", "type": "CASHIER", "category": "sportbook", "bet": 60.00, "win": 75.00, "refund": 0.00, "ggr": -15.00, "ggr_usd": -3.90} 
-  ],
+  ]
   },
   "meta":{"version":"1.0.2"}
 }
