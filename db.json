@@ -1,6 +1,6 @@
 {
   "earnings": {  
-  {
+  
   "status": 1,
   "message_code": "OK",
   "list": [
@@ -47,6 +47,6 @@
   "xpage": 30,
   "page": 1,
   "total": 30
-}
+
   }
 }
